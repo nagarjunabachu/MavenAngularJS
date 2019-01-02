@@ -1,2 +1,2 @@
 # MavenAngularJS
-AngularJS project
+AngularJS Project

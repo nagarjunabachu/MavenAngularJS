@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Wed, 2 Jan 2019 07:23:29 +0000
+Source: MavenAngularJS-web
+Binary: MavenAngularJS-web
+Architecture: all
+Version: 1.0~root
+Distribution: unknown
+Urgency: low
+Maintainer: daniel@solong.co.uk
+Changed-By: daniel@solong.co.uk
+Description:
+ MavenAngularJS-web - [[description]]
+Changes:
+ MavenAngularJS-web (1.0~root) unknown; urgency=low
+Checksums-Sha1:
+ 55d83111598f53560b7420876b7e4a22e8ae59c9 6846 MavenAngularJS-web.deb
+Checksums-Sha256:
+ 0df1dcbb4e36adb6b3acc719781cb93f8d2257ad9fca4adf199403f7804a73e0 6846 MavenAngularJS-web.deb
+Files:
+ 8438e619fee9b1ae20f596b59e811181 6846 misc low MavenAngularJS-web.deb
